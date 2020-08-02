@@ -14,11 +14,9 @@
         "fonts",
         "filetypes",
         "npm",
-        "names",
-        "my-misc"
+        "names"
     ],
     "dictionaryDefinitions": [
-        { "name": "names", "path": "./.dics/names.txt" },
-        { "name": "my-misc", "path": "./.dics/misc.txt" },
+        { "name": "names", "path": "./.dics/names.txt" }
     ]
 }
